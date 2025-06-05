@@ -1,0 +1,9 @@
+[server]
+enableStaticServing = true
+enableXsrfProtection = false
+
+[runner]
+fastReruns = true
+
+[theme]
+base = "dark"
